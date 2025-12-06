@@ -1,7 +1,10 @@
 # 写経学習プロジェクト集 / Code Transcription Projects
 
 プログラミングの基礎を固めるため、様々な言語でコードを写経(書き写し)しながら学習しています。  
-このリポジトリは、その学習過程を記録するものです。
+このリポジトリは、その学習過程を記録するものです。  
+In order to solidify my programming fundamentals,  
+I am learning by transcribing (Shakyo) code in various languages.   
+This repository is a record of my learning process.  
 
 ## 📖 About This Repository
 
