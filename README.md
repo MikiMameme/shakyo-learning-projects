@@ -21,10 +21,10 @@ This repository is a record of my learning process.
 ## 📚 Learning Languages
 
 ### 学習済み(基礎レベル)
-- **C言語** - 新明解C言語入門編で学習
-- **C++** - 新明解C++入門編で学習
-- **Java** - スッキリわかるJava入門第4版で学習
-- **Python** - ゲームプログラミングを通じて学習
+- **C言語** - 「新明解C言語入門編」等で学習
+- **C++** - 「新明解C++入門編」等で学習
+- **Java** - 「スッキリわかるJava入門第4版」で学習
+- **Python** - 「12歳から始めるゼロからのPythonゲームプログラミング教室」等で学習
 
 ### 現在学習中
 - **Kotlin** - Android開発を目指して
