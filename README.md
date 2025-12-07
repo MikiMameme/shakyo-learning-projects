@@ -34,10 +34,9 @@ This repository is a record of my learning process.
 ## 📁 Project Structure
 ```
 shakyo-learning-projects/
-├── C/
-│   └── (C言語のプロジェクト)
+│   
 ├── C_Cpp/
-│   └── (C++のプロジェクト)
+│   └── (C/C++のプロジェクト)
 ├── Java/
 │   └── (Javaのプロジェクト)
 ├── Python/
