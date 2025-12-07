@@ -43,7 +43,7 @@ shakyo-learning-projects/
 ├── Python/
 │   └── (Pythonのプロジェクト)
 ├── Kotlin/
-│   ├── (Kotlinのプロジェクト)
+│   └── (Kotlinのプロジェクト)
 │   
 ├── Swift/
 │   └── (今後追加予定)
