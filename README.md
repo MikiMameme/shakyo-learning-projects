@@ -36,16 +36,15 @@ This repository is a record of my learning process.
 shakyo-learning-projects/
 ├── C/
 │   └── (C言語のプロジェクト)
-├── CPP/
+├── C_Cpp/
 │   └── (C++のプロジェクト)
 ├── Java/
 │   └── (Javaのプロジェクト)
 ├── Python/
 │   └── (Pythonのプロジェクト)
 ├── Kotlin/
-│   ├── 01-janken-game/
-│   │   └── Main.kt
-│   └── ...
+│   ├── (Kotlinのプロジェクト)
+│   
 ├── Swift/
 │   └── (今後追加予定)
 └── README.md
@@ -53,9 +52,10 @@ shakyo-learning-projects/
 
 ## 🛠️ Development Environment
 
- **IDE:** IntelliJ IDEA Community Edition (Kotlin/Java)  
-          Visual Studio  (C/C++)  
-          PyCharm(Python)  
+ **IDE:**  
+ IntelliJ IDEA Community Edition (Kotlin/Java)  
+ Visual Studio  (C/C++)  
+ PyCharm(Python)  
 
 ## 📝 Learning Philosophy
 
