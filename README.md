@@ -14,7 +14,9 @@ A: I don't know anything until I try it with my hands lol
 ## 📖 About This Repository
 
 「写経(Shakyo)」とは、コードを一字一句丁寧に書き写すことで、構文やパターンを体に染み込ませる学習法です。  
-ただのコピペではなく、実際に手を動かして理解を深めることを重視しています。
+ただのコピペではなく、実際に手を動かして理解を深めることを重視しています。  
+"Shakyo" is a learning method in which you meticulously copy code word for word, allowing syntax and patterns to sink into your body.  
+Rather than simply copying and pasting, the emphasis is on actually doing the work and deepening your understanding.  
 
 ## 👤 About Me
 - **年齢・性別:** 30代　男性
