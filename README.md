@@ -6,6 +6,11 @@ In order to solidify my programming fundamentals,
 I am learning by transcribing (Shakyo) code in various languages.   
 This repository is a record of my learning process.  
 
+Q.どうしてこんなことを？  
+A.手を動かしてみないとなんもわかんねえｗ  
+Q: Why did you do this?  
+A: I don't know anything until I try it with my hands lol  
+
 ## 📖 About This Repository
 
 「写経(Shakyo)」とは、コードを一字一句丁寧に書き写すことで、構文やパターンを体に染み込ませる学習法です。  
