@@ -60,9 +60,10 @@ shakyo-learning-projects/
 ## 🛠️ Development Environment
 
  **IDE:**  
- IntelliJ IDEA Community Edition (Kotlin/Java)  
- Visual Studio (C/C++)  
- VSCode, PyCharm (Python)  
+ ☕Java/🏝️Kotlin: IntelliJ IDEA   
+ 🔤C/C++: CLion, Visual Studio  
+ 🐍Python: PyCharm  
+ ⚙Rust: RustRover
 
 ## 📝 Learning Philosophy
 
