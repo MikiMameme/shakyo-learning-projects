@@ -20,7 +20,7 @@ This repository is a record of my learning process.
 
 ## 📚 Learning Languages
 
-### 学習済み(基礎レベル)
+### 学習済み(入門書レベル)
 - **C言語** - 「新明解C言語入門編」等で学習
 - **C++** - 「新明解C++入門編」等で学習
 - **Java** - 「スッキリわかるJava入門第4版」で学習
