@@ -1,5 +1,5 @@
 # 写経学習プロジェクト集 / Code Transcription Projects
-
+## 📖 About This Repository
 プログラミングの基礎を固めるため、様々な言語でコードを写経(書き写し)しながら学習しています。  
 このリポジトリは、その学習過程を記録するものです。  
 In order to solidify my programming fundamentals,  
@@ -11,7 +11,7 @@ A.手を動かしてみないとなんもわかんねえｗ
 Q: Why did you do this?  
 A: I don't know anything until I try it with my hands lol  
 
-## 📖 About This Repository
+## 📖 About "Shakyo"  
 
 「写経(Shakyo)」とは、コードを一字一句丁寧に書き写すことで、構文やパターンを体に染み込ませる学習法です。  
 ただのコピペではなく、実際に手を動かして理解を深めることを重視しています。  
