@@ -44,7 +44,8 @@ shakyo-learning-projects/
 │   └── (Pythonのプロジェクト)
 ├── Kotlin/
 │   └── (Kotlinのプロジェクト)
-│   
+├── Rust/
+│   └── (Rustのプロジェクト)
 ├── Swift/
 │   └── (今後追加予定)
 └── README.md
