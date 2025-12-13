@@ -28,6 +28,7 @@ This repository is a record of my learning process.
 
 ### 現在学習中
 - **Kotlin** - Android開発を目指して
+- **Rust** - 新しい刺激を求めて
 - **Python** - さらなる深掘り予定
 - **Swift** - iOS開発にも興味あり
 
