@@ -1,0 +1,2 @@
+Rust is fun Rust is fast
+Rust is safe and fun
