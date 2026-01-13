@@ -1,0 +1,8 @@
+{
+  "feeds": [
+    {
+      "name": "NHK ニュース",
+      "url": "https://www.nhk.or.jp/rss/news/cat0.xml"
+    }
+  ]
+}
